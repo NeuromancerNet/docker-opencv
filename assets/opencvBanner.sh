@@ -1,4 +1,4 @@
-figlet Neuromancer Tools && echo && \
+figlet Neuromancer OpenCV && echo && \
 java -version && echo  &&\
 python --version && echo && \
 g++ --version && echo && \
