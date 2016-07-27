@@ -1,0 +1,8 @@
+devbox:
+  container_name: smoketest-devbox
+  build:
+    .
+  dockerfile:
+    Dockerfile
+  volumes:
+    - ./assets:/app
